@@ -26,7 +26,7 @@ export function ChatWindow() {
             </svg>
           </div>
           <div>
-            <p className="text-sm font-semibold text-zinc-200 leading-none">LeaveBot</p>
+            <p className="text-sm font-semibold text-zinc-200 leading-none">Leave Policy Assistant</p>
             <p className="text-[10px] text-zinc-500 mt-0.5">CognitoBay HR Assistant</p>
           </div>
         </div>

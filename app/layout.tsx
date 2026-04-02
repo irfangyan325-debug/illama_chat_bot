@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "LeaveBot · CognitoBay",
+  title: "Leave Policy Assistant · CognitoBay",
   description: "AI-powered leave policy assistant",
 };
 
